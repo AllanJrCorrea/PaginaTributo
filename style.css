@@ -1,13 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
 * {
-    margin: 0px;
+    margin: 30px;
     padding: 0px;
     box-sizing: border-box;
     text-decoration: none;
 }
 
 body {
-    background-color: black;
+    background-color: rgb(37, 34, 34);
     color: white;
+    text-align: justify;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.cabecalho {
+    font-size: 30px;
+    text-align:center;
+}
+.texto1 {
+    margin-top: 5em;
+    font-size: 20px;
+}
+.kobe1 {
     text-align: center;
 }
-
